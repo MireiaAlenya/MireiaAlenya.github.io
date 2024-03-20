@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amelia Jiménez-Sánchez"
+title                    : "Mireia Alenyà"
 title_separator          : "-"
-name                     : &name "Amelia Jiménez-Sánchez"
+name                     : &name "Mireia Alenyà Sistané"
 description              : &description ""
-url                      : https://ameliajimenez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://MireiaAlenya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ameliajimenez/ameliajimenez.github.io"
+repository               : "MireiaAlenya/MireiaAlenya.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amelia Jiménez-Sánchez"
+  name             : "Mireia Alenyà Sistané"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher on Learning <br /> Representations with Medical Images"
-  location         : "Copenhagen, Denmark"
+  bio              : "Doctor in biomedical engineering <br /> Fetal brain analysis with FEM modelling and <br /> and deep learning algorithms."
+  location         : "Barcelona, Spain"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=2xeIA9sAAAAJ&hl"
-  email            : amji@itu.dk
+  googlescholar    : "https://scholar.google.com/citations?user=CIHd2bYAAAAJ&hl=ca"
+  email            : mireia.alenya@upf.edu
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,27 +96,27 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ameliajimenez
+  github           : MireiaAlenya
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : amejs
-  orcid            : 
+  linkedin         : mireia-alenya
+  orcid            : 0000-0002-9548-0873
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  strava           : https://www.strava.com/athletes/80615838
+  strava           : https://www.strava.com/athletes/25797820
   tumblr           :
-  twitter          : ameliajimsan
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  mastodon         : https://social.itu.dk/@amelia
+  mastodon         : # https://social.itu.dk/@amelia
 
 
 # Reading Files
