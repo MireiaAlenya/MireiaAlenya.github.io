@@ -9,4 +9,4 @@ I am a recently graduated PhD researcher, with a dissertation in **fetal brain a
 
 I spend most of my free time doing **[sports](https://www.strava.com/athletes/25797820)**, mainly mid-distance triathlon and sprint duathlon. I also love being surrounded by nature, I enjoy going to the **mountains** and just staring at natural landscapes. 
 
-<p align="center"><img width="50%" src="../images/travessa-montseny.jpg"  /></p>
+<p align="center"><img width="50%" src="../images/sport1_mireia.jpg"  /></p>
