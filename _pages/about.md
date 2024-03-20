@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 <br />
-Hi, I am **Amelia**. Welcome to my webpage!
+Hi, I am **Mireia**. Welcome to my webpage!
 
-I am a research data scientist excited to develop fairer AI algorithms for a diverse society
+I am a doctoral researcher studying fetal brain development during gestation using finite element methods modeling and deep learning algorithms for image segmentation and accelerating models' simulations.
 
 This website contains some personal and professional information about me.
 <br />
@@ -31,12 +31,12 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> Feb. 2024: </td> <td> New <a href="https://arxiv.org/abs/2402.06353"> preprint</a> on sharing medical imaging datasets on community-contributed platforms.
+<tr><td> Feb. 2024: </td> <td> I have successfully defended my PhD thesis "Computational analysis of fetal brain development with patient-specific modelling and deep learning techniques".
 </td></tr> 
-<tr><td> Sept. 2023: </td> <td> Our work "Revisiting Hidden Representations in Transfer Learning for Medical Imaging" has been accepted at Transactions on Machine Learning Research (TMLR), congrats Dovile!
+<tr><td> July 2023: </td> <td> Our work "A deep learning approach for modelling fetal brain development" has been presented in the session on Fetal Modelling of the BCN-MedTech seminars.
 </td></tr> 
-<tr><td> Jan. 2023: </td> <td> Our work "Detecting Shortcuts in Medical Images — A Case Study in Chest X-rays" has been accepted at the International Symposium on Biomedical Imaging (ISBI).
+<tr><td> Dec 2022: </td> <td> I'm thrilled to announce I have just landed to Auckand, New Zealand, for a 4-month research stay at the Auckland Bioengineering Institute. I'm about to learn from Gonzalo Maso and his team to develop a deep-learning surrogate model able to accelerate FEM simulations of brain growth and folding.
 </td></tr> 
-<tr><td> Jan. 2023: </td> <td> We are organizing a webinar series: <a href="https://purrlab.github.io/webinar/">Datasets through the L👀king-Glass</a> to better understand what researchers are doing with their (meta-) data.
+<tr><td> March 2022: </td> <td> Our work <a href="https://www.sciencedirect.com/science/article/pii/S2666522022000028?via%3Dihub#fig0006">"Computational pipeline for the generation and validation of patient-specific mechanical models of brain development"</a> has been accepted at the Brain Multiphysics Journal.
 </td></tr> 
 </table>
