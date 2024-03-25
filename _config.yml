@@ -177,9 +177,9 @@ kramdown:
 
 # Collections
 collections:
-  outreach:
-    output: true
-    permalink: /:collection/:path/
+  #outreach:
+    #output: true
+    #permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
