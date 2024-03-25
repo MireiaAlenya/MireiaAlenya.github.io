@@ -1,11 +1,11 @@
 ---
-title: "A deep learning approach for modelling fetal brain development  "
+title: "A deep learning approach for modelling fetal brain development"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-11-26-helmholtz
-venue: "Helmholtz AI"
-date: 2021-11-26
-location: "Munich, Germany"
+permalink: /talks/surrogates_medtech
+venue: "BCN-MedTech Seminars: Session 7 on Fetal Modelling"
+date: 2023-07-13
+location: "Barcelona, Catalonia"
 ---
 
 <p>This talk presents preliminar results on the deep learning surrogate model accelerating FEM simulations.</p>
