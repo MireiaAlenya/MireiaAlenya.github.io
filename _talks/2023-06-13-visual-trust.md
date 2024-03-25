@@ -1,11 +1,11 @@
 ---
-title: "Medical Imaging: Inside Out"
+title: "FeTA Challenge 2021: Multilabel Fetal Brain Segmentation using nn-UNet"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-06-13-visual-trust
-venue: "International Conference: On image-making, Universitat de Barcelona (UB)"
-date: 2023-06-13
-location: "Barcelona, Spain"
+permalink: /talks/2021-feta
+venue: "Fetal Tissue Annotation Challenge (FeTA) 2021. International Conference on Medical Image Computing & Computed Assisted Intervention (MICCAI)"
+date: 2021-10-01
+location: "online - Strasbourg, France"
 ---
 
-In this talk at an international visual anthropology conference, I presented the history of medical imaging and the current use of Artificial Intelligence for medical image diagnosis. More details about the program of the conference can be found in this [link](https://www.visualtrust.ub.edu/events-and-news/fieldwork-in-oslo-social-images-1/).
+. We presented a deep learning model based on a nnUNet for multilabel segmentation. Results from this challenge are published in Medical Image Analysis, titled "Fetal brain tissue annotation and segmentation challenge results" https://doi.org/10.1016/j.media.2023.102833, where we are listed as co-authors. Our 3-minute presentation can be seen here: [link](https://feta.grand-challenge.org/feta-2021/).
