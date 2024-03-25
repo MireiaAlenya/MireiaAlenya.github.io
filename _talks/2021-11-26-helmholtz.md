@@ -1,5 +1,5 @@
 ---
-title: "Learning Representations for Medical Image Diagnosis: Impact of Curriculum Training"
+title: "A deep learning approach for modelling fetal brain development  "
 collection: talks
 type: "Talk"
 permalink: /talks/2021-11-26-helmholtz
@@ -8,7 +8,8 @@ date: 2021-11-26
 location: "Munich, Germany"
 ---
 
-This talk presents research work on the implementation of curriculum learning as a data scheduler for medical image diagnosis. In particular, for the application of proximal femur fractures classification, and breast cancer classification in a federated setting. 
+<p>This talk presents preliminar results on the deep learning surrogate model accelerating FEM simulations.</p>
 
-Invited by [Dr. Shadi Albarqouni](https://albarqouni.github.io/).
+<p><strong>Abstract:</strong> </p>
+<p>During the second and third trimesters of gestation, the human cortex transitions from a smooth surface to a convoluted structure with organized folds. Abnormal folding is associated with neurodevelopmental disorders, but understanding its complex multi-scale interactions remains incomplete. Computational modelling is valuable for simulating brain development, but realistic simulations require accurately defining mechanical parameters and constitutive equations. However, Finite Element Method (FEM) simulations are computationally intensive, and longitudinal data is limited, posing challenges for optimization schemes in inverse problems. In this seminar, I will present a methodology that integrates principal component analysis (PCA) for dimensionality reduction and synthetic sample generation, as well as a deep learning surrogate model that learns the output of a FEM model that simulates fetal brain development. The model employs a fully connected neural network to predict the FEM nodal displacement from a fetal geometry and material properties, achieving a speed increase of 4500 times. Qualitatively, the surrogate model successfully reproduces the folding pattern of the FEM solution in most brain regions. The developed methodology opens the way to parameter estimation in brain mechanical models using longitudinal imaging data to improve the realism of the simulations.</p>
 
