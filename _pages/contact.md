@@ -9,8 +9,4 @@ author_profile: true
 ### E-mail:  
 mireia.alenya@upf.edu
 
-### Twitter: 
-# [@ameliajimsan](https://twitter.com/ameliajimsan)
  
-### Skype:  
-#amelia.js
