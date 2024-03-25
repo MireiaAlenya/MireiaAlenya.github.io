@@ -7,10 +7,10 @@ author_profile: true
 ---
 
 ### E-mail:  
-amelia.jimenez@upf.edu
+mireia.alenya@upf.edu
 
 ### Twitter: 
- [@ameliajimsan](https://twitter.com/ameliajimsan)
+# [@ameliajimsan](https://twitter.com/ameliajimsan)
  
 ### Skype:  
-amelia.js
+#amelia.js
