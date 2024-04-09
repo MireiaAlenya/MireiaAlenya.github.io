@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 <br />
-Hi, I am **Mireia**. Welcome to my webpage!
+Hi, I am **Mireia**. Welcome to my webpage! (As you will see, it is currently **under construction**, and I'm still adding some materials. But from what you can find so far, you can definitely get a big picture of what I have been doing these last four years!)
 
 I am a doctoral researcher studying fetal brain development during gestation using finite element methods modeling and deep learning algorithms for image segmentation and accelerating models' simulations.
 
