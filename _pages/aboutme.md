@@ -11,15 +11,10 @@ I hold a Bachelor's degree in Physics from the **University of Barcelona** (2012
 
 I spend most of my free time doing **[sports](https://www.strava.com/athletes/25797820)**, mainly mid-distance triathlon and sprint duathlon. I also love being surrounded by nature, I enjoy going to the **mountains** and just staring at natural landscapes. 
 
-
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div style="display: flex; justify-content: space-between;">
     <img width="50%" src="../images/sport1_mireia.jpg" />
-  </div>
-  <div style="flex: 1; text-align: right;">
     <img width="50%" src="../images/sport2_mireia.jpg" />
-  </div>
 </div>
-<p align="left"><img width="50%" src="../images/sport1_mireia.jpg"  /> <p align="right"><img width="50%" src="../images/sport2_mireia.jpg"  /></p>
+<p align="left"><img width="40%" src="../images/sport1_mireia.jpg"  /> <p align="right"><img width="40%" src="../images/sport2_mireia.jpg"  /></p>
 <p align="center"><img width="50%" src="../images/sport3_mireia.jpg"  /></p>
 <p align="center"><img width="50%" src="../images/sport4_mireia.jpg"  /></p>
